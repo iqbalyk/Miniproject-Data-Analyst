@@ -1,0 +1,3 @@
+Repositori ini menyajikan Project Portofolio Analis Data saya, di mana saya mendemonstrasikan keahlian analitik data menyeluruh dengan menggunakan dataset yang ada. Seperti: membuat dasbor di tiga aplikasi berbeda: Excel, Power BI, dan Tableau. Analisa Data juga dilakukan dengan Pyhton pada dataset tertentu. Tujuan proyek ini adalah untuk 
+1. menunjukkan bagaimana dataset yang sama dapat dianalisis, diproses, dan divisualisasikan di berbagai perangkat, yang menyoroti fleksibilitas dan kemahiran dalam menangani beragam platform intelijen bisnis.
+2. Menjawab pertanyaan kebutuhan analisa kedalam chart, baik itu menggunakan pivot, BI ataupun pyhton dataframe
