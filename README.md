@@ -30,15 +30,8 @@ Langkah-langkah yang terlibat dalam proyek:
 
 Pembersihan & Persiapan Data – Menghapus duplikat, menangani nilai yang hilang, memformat tanggal, dan menstandardisasi kolom.
 Analisis Data Eksploratori (EDA) – Menghasilkan statistik ringkasan, mengidentifikasi tren, dan mengeksplorasi hubungan antar variabel.
-Analisis Data:
-•	Task Explenation
-•	Objective
-•	Success Metric 
-•	Documents 
-•	Result (Fill by Analyst)
--	Conclusion/TLDR
--	Finding/Analysis
-•	Recommendation (Filled by Analyst)
-•	Section for Data 
+Analisis Data:Task Explenation, Objective, Success Metric, Documents, Result (Fill by Analyst) 1. Conclusion/TLDR 2. Finding/Analysis, Recommendation (Filled by Analyst), Section for Data
+
+Document dibuat menjadi PDF *Mini Project 3 Mandiri.pdf*
 
 
